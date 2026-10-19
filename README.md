@@ -37,6 +37,14 @@ The repository uses separate branches:
 - `main` – main project version
 - `development` – ongoing development and testing
 
+## Project Evidence
+
+### Webots Simulation
+
+The following screenshot shows the current Webots simulation environment used for the project.
+
+![Webots Simulation](images/webots-simulation.png)
+
 ## Project Management
 
 Trello is used to plan and track project tasks, including task status, checklists, labels and due dates.
