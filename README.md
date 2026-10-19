@@ -51,6 +51,10 @@ The following screenshot shows the Git workflow used for the project, including 
 
 ![Git Workflow](images/git-workflow.png)
 
-## Project Management
+### Trello Project Management
 
-Trello is used to plan and track project tasks, including task status, checklists, labels and due dates.
+Trello is used as the project management tool to plan, organise, and monitor the progress of the robotics project. The board is structured using task lists, checklists, labels, and due dates to support effective project planning and progress tracking.
+
+The following screenshot provides evidence of the Trello project management board used for the project.
+
+![Trello Project Management](images/trello-project-management.png)
