@@ -45,6 +45,12 @@ The following screenshot shows the current Webots simulation environment used fo
 
 ![Webots Simulation](images/webots-simulation.png)
 
+### Git Workflow
+
+The following screenshot shows the Git workflow used for the project, including staging, committing, and pushing changes to the GitHub repository.
+
+![Git Workflow](images/git-workflow.png)
+
 ## Project Management
 
 Trello is used to plan and track project tasks, including task status, checklists, labels and due dates.
